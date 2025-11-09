@@ -37,7 +37,7 @@
 - Samsung Galaxy A7 (2015) - SM-A700YD
 - Samsung Galaxy Ace 4 - SM-G357FZ (quirky - see comment in `lk2nd/device/dts/msm8916/msm8916-samsung.dts`)
 - Samsung Galaxy Core Max - SM-G5108Q (quirky - see comment in `lk2nd/device/dts/msm8916/msm8916-samsung.dts`)
-- Samsung Galaxy Core Prime LTE - SM-G360F, SM-G360G, SM-G360T (rossaltezt is quirky - see comment in `lk2nd/device/dts/msm8916/msm8916-samsung.dts`)
+- Samsung Galaxy Core Prime LTE - SM-G360F, SM-G360G, SM-G360T, SM-G360V (rossaltezt is quirky - see comment in `lk2nd/device/dts/msm8916/msm8916-samsung.dts`)
 - Samsung Galaxy E5 - SM-E500F, SM-E500H
 - Samsung Galaxy E7 - SM-E7000, SM-E700F
 - Samsung Galaxy Grand Max - SM-G720AX
@@ -55,6 +55,7 @@
 - Samsung Galaxy Tab E 9.6 WiFi (2015) - SM-T560NU
 - Vivo Y21L
 - Vivo Y31 (2015) - pd1505
+- Vivo Y51L (2015) - pd1510
 - Vodafone Smart prime 6
 - Wiko Pulp 4G
 - Wileyfox Swift - crackling
@@ -84,6 +85,7 @@
 - Alcatel Idol 4 (6055*)
 - BQ X5 Plus (Longcheer L9360)
 - Fossil Gen 6 (hoki)
+- HMD Global Nokia 4.2 (panther)
 - HMD Global Nokia 5 (nd1)
 - HMD Global Nokia 6 (ple)
 - Huawei Honor 7C (aum-l41) (quirky - see comment in `lk2nd/device/dts/msm8952/msm8937-huawei-aum.dts`)
@@ -105,6 +107,7 @@
 - Redmi 4X (santoni)
 - Redmi 5A (riva)
 - Redmi 7A (pine)
+- Redmi 8 (olive) / 8A (olivelite) / 8A Dual/Pro (olivewood)
 - Redmi GO (tiare)
 - Redmi Note 3 Pro (kenzo)
 - Redmi Note 5A (ugglite)
@@ -170,7 +173,7 @@
 - Motorola Moto G 2014 - titan
 - Motorola Moto G 2014 LTE - thea
 - Samsung Galaxy Grand 2 - SM-G7102
-- Samsung Galaxy Tab 4 10.1 (2014) - SM-T530, SM-T535
+- Samsung Galaxy Tab 4 10.1 (2014) - SM-T530, SM-T532, SM-T535
 - Samsung Galaxy Tab 4 8.0 (2014) - SM-T330, SM-T330NU, SM-T331
 - Sony Xperia M2 - eagle (quirky - see comment in `lk2nd/device/dts/msm8226/msm8926-v2-720p-mtp.dts`)
 
